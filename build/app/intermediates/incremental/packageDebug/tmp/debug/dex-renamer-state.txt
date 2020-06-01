@@ -1,0 +1,4 @@
+#Fri May 29 00:57:10 IRDT 2020
+base.0=/home/ali/Desktop/flutter_app/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
